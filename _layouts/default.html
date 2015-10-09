@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="NYC Tech Jobs promotes critical development, data, and design jobs for the City of New York.">
+    <meta name="author" content="">
+    <link rel="icon" href="img/favicon.ico">
+
+    <title>NYC Tech + Innovation Jobs</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Flat UI CSS -->
+    <link href="css/flat-ui.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    {% include navbar.html %}
+    
+    {{ content }}
+    
+    {% include footer.html %}
+    
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <script>
+        $('#linkDev').click(function () {
+            var src = 'https://www.youtube.com/embed/AawSodrxE5w';
+            $('#modalDev').modal('show');
+            $('#modalDev iframe').attr('src', src);
+        });
+
+        $('#modalDev button').click(function () {
+            $('#modalDev iframe').removeAttr('src');
+        });
+    </script>
+    <script>
+        $('#linkData').click(function () {
+            var src = 'https://www.youtube.com/embed/24FA6h3MdYg';
+            $('#modalData').modal('show');
+            $('#modalData iframe').attr('src', src);
+        });
+
+        $('#modalData button').click(function () {
+            $('#modalData iframe').removeAttr('src');
+        });
+    </script>
+    <script>
+        $('#linkDesign').click(function () {
+            var src = 'https://www.youtube.com/embed/kAIHFMoaiAo';
+            $('#modalDesign').modal('show');
+            $('#modalDesign iframe').attr('src', src);
+        });
+
+        $('#modalDesign button').click(function () {
+            $('#modalDesign iframe').removeAttr('src');
+        });
+    </script>
+  </body>
+</html>
