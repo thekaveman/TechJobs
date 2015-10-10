@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+<div class="container" style="border-top: #BDC3C7 1px solid">
+  <br>
+  <div class="container">
+    <center>
+      <h2>Make an impact as a <span style="color:#EA2879">{{ page.impact }}</span>.</h2>
+    </center>
+  </div>
+  
+  <div class="container">
+    <p>Click to expand postings:</p>
+  </div>
+  
+  {% for job in site.data.jobs %}
+  {% if job.category == page.category %}
+  <div class="container">
+    <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <p class="panel-title">
+          <a data-toggle="collapse" href="#collapse{{ forloop.index }}"><b>{{ job.title }}</b> | {{ job.agency }}</a>
+        </p>
+      </div>
+      <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
+        <div class="panel-body">
+            <p class="lead">
+              <b>Title:</b> {{ job.title }}<br><br>
+
+              <b>Civil Service Title:</b> {{ job.civiltitle }}<br><br>
+
+              <b>Agency:</b> {{ job.agency }}<br><br>
+
+              <b>Salary:</b> {{ job.salary.low }} – {{ job.salary.high }}<br><br>
+
+              <b>What the Agency Does:</b> {{ site.data.agencies[job.agency] }}<br><br>
+
+              {% if job.division %}
+              <b>What the Division Does:</b> {{ site.data.agencies[job.division] }} <br><br>
+              {% endif %}
+              
+              <b>What You Will Do:</b> 
+
+              {{ job.description }} Your key tasks will include:<br><br>
+              
+              {% for task in job.tasks %}
+              > {{ task }}<br><br>
+              {% endfor %}
+
+              <b>The Ideal Candidate:</b><br>
+              
+              {% for qualification in job.qualifications %}
+              > {{ qualification }}<br><br>
+              {% endfor %}
+
+            <b>Minimum Requirements:</b><br>
+            {{ job.minimum }}<br><br>
+
+            <a class="btn btn-danger" href="https://a127-jobs.nyc.gov/?jobPath=psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRS.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId={{ job.id }}&SiteId=1&PostingSeq=1" role="button">Apply Now!</a> or search job ID {{ job.id }} <a href="http://www1.nyc.gov/jobs/index.page">here</a>.
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div><!--/panel .container -->
+  {% endif %}
+  {% endfor %}
+</div>
+
+<br><br><br>
