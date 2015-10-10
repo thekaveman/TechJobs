@@ -1,0 +1,279 @@
+[
+  { 
+    "category": "development",
+    "id": 201791,
+    "title": "Senior Mobile Application Developer",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of Information Technology and Telecommunications",
+    "salary": { 
+      "low": "$87,203",
+      "high": "$115,000"
+    },
+    "description": "As part of the Mobile Application Development team, you will work with the scrum master, mobile UX designer and the technical lead to design and develop native mobile applications for iOS and Android platforms for NYC. You will build native mobile applications using standard design patterns and best practices for a variety of strategic initiatives, such as NYC 311, that impact NYC residents, businesses and visitors.",
+    "tasks": [
+      "Leading the design and development of native iOS applications in Objective-C and native Android applications in Java.",
+      "Collaborating with business analysts, mobile UX designers, and project managers to determine timeline and detailed tasks.",
+      "Mentoring junior developers in order to create a top-notch application development team."
+    ],
+    "qualifications": [
+      "An all-star developer with deep experience building large scale native mobile applications, as well as integrating mobile applications with backend J2EE/.NET systems via web services.",
+      "A master of mobile development (Objective-C/Swift, HTML5, Javascript, CSS3 and AJAX) and industry standards, best practices and trends.",
+      "A driven problem-solver with a passion for complex government, urban and social challenges."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+  { 
+    "category": "development",
+    "id": 202068,
+    "title": "Senior Application Developer",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of Information Technology and Telecommunications",
+    "salary": { 
+      "low": "$87,203",
+      "high": "$115,000"
+    },
+    "description": "As part of the Application Development team, you will work with project stakeholders and technical managers to design and develop enterprise solutions to meet the business objectives of various agencies of NYC. You will produce robust and scalable web applications in Java/.NET/Python and other development frameworks and deploy applications to the public and private clouds for a variety of strategic initiatives that impact NYC residents, businesses and visitors.",
+    "tasks": [
+      "Leading the design and development of high-performing and large-scale web applications.",
+      "Collaborating with business analysts, UX designers, and project managers to determine timeline and detailed tasks.",
+      "Mentoring junior developers in order to create a top-notch application development team."
+    ],
+    "qualifications": [
+      "An all-star developer with deep experience in developing high-performing and large-scale web applications.",
+      "A master of application development (Java, .NET, PHP, and Python) and industry standards, best practices and trends.",
+      "A driven problem-solver with a passion for complex government, urban and social challenges."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+  { 
+    "category": "development",
+    "id": 201013,
+    "title": "Senior Java Developer",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of Information Technology and Telecommunications",
+    "salary": { 
+      "low": "$87,203",
+      "high": "$110,000"
+    },
+    "description": "As part of the Application Development team, you will work with project stakeholders and technical managers to design and develop enterprise solutions to meet the business objectives of various agencies of NYC. You will produce robust and scalable web applications in Java frameworks such as Spring and Hibernate for a variety of strategic initiatives that impact NYC residents, businesses and visitors.",
+    "tasks": [
+      "Leading the design and development of high-performing and large-scale web applications.",
+      "Collaborating with business analysts, UX designers, and project managers to determine timeline and detailed tasks.",
+      "Mentoring junior developers in order to create a top-notch application development team."
+    ],
+    "qualifications": [
+      "An all-star developer with deep experience in developing high-performing and large-scale web applications.",
+      "A master of application development in Java and industry standards, best practices and trends.",
+      "A driven problem-solver with a passion for complex government, urban and social challenges."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+  { 
+    "category": "development",
+    "id": 217540,
+    "title": "Program Lead - Interagency Mapping Portal",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of City Planning",
+    "division": "Capital Planning",
+    "salary": { 
+      "low": "$75,000",
+      "high": "$88,000"
+    },
+    "description": "You will lead the development, implementation, and ongoing advancement of a new mapping portal that can provide a common operational picture for planning across City government.",
+    "tasks": [
+      "Managing the development and interagency adoption of an integrated map-based data visualization and analytics portal that incorporates and aligns City-owned and operated assets, public facilities databases, capital needs assessments, capital investment programs, and other related spatial datasets.",
+      "Working across City agencies, with the Office of Management & Budget, as well as several Mayor’s Offices to advance data sharing standards for capital planning.",
+      "Developing new analytics from the integration of disparate datasets and generating insights to better inform decision-makers, automating these analyses when appropriate."
+    ],
+    "qualifications": [
+      "An all-star developer with deep experience in spatial data, data integration, data visualization, user experience, interaction design, and quantified communities.",
+      "A master of product and program management or technology systems development.",
+      "A driven entrepreneur with a passion for contributing to the professional development of staff."
+    ],
+    "minimum": "BA and two years of relevant work experience.",
+  },
+  { 
+    "category": "development",
+    "id": 214588,
+    "title": "Database and Application Development Specialist",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of City Planning",
+    "division": "Information Technology Division / Database and Application Development section",
+    "salary": { 
+      "low": "$74,066",
+      "high": "$92,308"
+    },
+    "description": "You will be a key member of a team developing a major new application that will manage the agency’s land use and environmental review process.",
+    "tasks": [
+      "Working as part of a team of programmers in the development of an agency workflow and document management system.",
+      "Maintaining and enhancing several major applications, including the PLUTO Database.",
+      "Collaborating with end users, technical staff and the city’s oversight technology agency on requirements for enhancement initiatives."
+    ],
+    "qualifications": [
+      "An all-star developer with significant experience in Visual Studio, Java Script, VB.Net and ASP.Net.",
+      "A master of Agile process and Microsoft Dynamics CRM, Microsoft SharePoint and implementing cloud based solutions.",
+      "A driven entrepreneur with a passion for contributing to the professional development of staff."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+  { 
+    "category": "development",
+    "id": 201017,
+    "title": "Java Developer",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of Information Technology and Telecommunications",
+    "salary": { 
+      "low": "$81,290",
+      "high": "$105,000"
+    },
+    "description": "As part of the Application Development team, you will work with project managers and senior java leads/developers to build enterprise applications to meet the business objectives of various agencies of NYC. You will produce robust and scalable web applications in Java frameworks such as Spring and Hibernate for a variety of strategic initiatives that impact NYC residents, businesses and visitors.",
+    "tasks": [
+      "Designing and developing high-performing and large-scale web applications.",
+      "Collaborating with business analysts, UX designers, and project managers to determine timeline and detailed tasks.",
+    ],
+    "qualifications": [
+      "An all-star developer with deep experience in developing high-performing and large-scale web applications.",
+      "A master of application development in Java and industry standards, best practices and trends.",
+      "A driven problem-solver with a passion for complex government, urban and social challenges."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+  { 
+    "category": "development",
+    "id": 201361,
+    "title": "CMS Developer",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of Information Technology and Telecommunications",
+    "salary": { 
+      "low": "$81,290",
+      "high": "$105,000"
+    },
+    "description": "As part of the CMS Application Development team, you will work with project stakeholders and technical managers to design and develop CMS workflows, forms and other solutions for nyc.gov and the City’s intranet. You will directly work with other agencies and clients and build components in HP TeamSite/LiveSite, Drupal, Java and Perl for a variety of strategic initiatives that impact NYC residents, businesses and visitors.",
+    "tasks": [
+      "Designing and developing new TeamSite and Drupal workflows, templates, and forms.",
+      "Supporting, maintaining, debugging, and enhancing existing solutions.",
+    ],
+    "qualifications": [
+      "An all-star developer with deep experience in designing CMS workflows, forms and other solutions.",
+      "A master of CMS development (HP TeamSite/LiveSite, Drupal, Java and Perl) and industry standards, best practices and trends.",
+      "A driven problem-solver with a passion for complex government, urban and social challenges."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+  { 
+    "category": "data",
+    "id": 202175,
+    "title": "Senior Data Architect",
+    "civiltitle": "Computer Systems Manager",
+    "agency": "Department of Information Technology and Telecommunications",
+    "salary": { 
+      "low": "$51,757",
+      "high": "$130,000"
+    },
+    "description": "As part of the Enterprise Solutions Development team, you will work with executive staff, technical managers and project stakeholders to design and architect business intelligence, data warehouse, data integration and Master Data Management solutions in support of a variety of strategic initiatives that impact NYC’s residents, businesses and visitors.",
+    "tasks": [
+      "Serving as lead architect for complex multi-agency projects.",
+      "Determining the appropriate data model for large scale data operations for citywide projects.",
+      "Leading, coaching and mentoring junior and senior level development staff in complex citywide business intelligence, data integration, master data management, data warehousing and related initiatives."
+    ],
+    "qualifications": [
+      "An all-star architect with mastery in utilizing SQL in a variety of databases.",
+      "A master of working in enterprise environments, as well as interpreting business requirements, technical and existing business process artifacts, and legacy system operations into sustainable data storage models.",
+      "A driven problem-solver with a passion for complex urban and social challenges."
+    ],
+    "minimum": "MA and three years of relevant work experience OR BA and four years of relevant work experience."
+  },
+  { 
+    "category": "data",
+    "id": 217540,
+    "title": "Program Lead - Interagency Mapping Portal",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of City Planning",
+    "division": "Capital Planning",
+    "salary": { 
+      "low": "$77,157",
+      "high": "$88,000"
+    },
+    "description": "You will lead the development, implementation, and ongoing advancement of a new mapping portal that can provide a common operational picture for planning across City government.",
+    "tasks": [
+      "Managing the development and interagency adoption of an integrated map-based data visualization and analytics portal that incorporates and aligns City-owned and operated assets, public facilities databases, capital needs assessments, capital investment programs, and other related spatial datasets.",
+      "Working across City agencies, with the Office of Management & Budget, as well as several Mayor’s Offices to advance data sharing standards for capital planning.",
+      "Developing new analytics from the integration of disparate datasets and generating insights to better inform decision-makers, automating these analyses when appropriate."
+    ],
+    "qualifications": [
+      "An all-star developer with deep experience in spatial data, data integration, data visualization, user experience, interaction design, and quantified communities.",
+      "A master of product and program management or technology systems development.",
+      "A driven entrepreneur with a passion for contributing to the professional development of staff."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+  { 
+    "category": "data",
+    "id": 201360,
+    "title": "Analytics Developer",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of Information Technology and Telecommunications",
+    "salary": { 
+      "low": "$81,290",
+      "high": "$105,000"
+    },
+    "description": "As part of the Enterprise Solutions Development team, you will work with project managers, senior developers and data architects to develop Informatica and SSIS workflows and other data integration solutions to meet the business objectives of various agencies of NYC in support of a variety of strategic initiatives that impact NYC’s residents, businesses and visitors.",
+    "tasks": [
+      "Supporting the copying, transferring, manipulating, and automating of data operations from manual processes.",
+      "Assisting in the development and deployment of releases in different environments.",
+      "Supporting the development of reports in an enterprise reporting platform."
+    ],
+    "qualifications": [
+      "An all-star analytics developer with deep experience developing Informatica and SSIS workflows.",
+      "A master of SQL and industry standards, best practices and trends.",
+      "A driven problem-solver with a passion for complex government, urban and social challenges."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+  { 
+    "category": "data",
+    "id": 200765,
+    "title": "Data Modeler",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of Information Technology and Telecommunications",
+    "salary": { 
+      "low": "$87,203",
+      "high": "$110,000"
+    },
+    "description": "As part of the Enterprise Solutions Development team, you will work with project managers, senior data architects and technical leads to develop and build data models for projects spanning multiple agency systems and assist in creating ETL development strategies for a variety of strategic initiatives that impact NYC’s residents, businesses and visitors.",
+    "tasks": [
+      "Analyzing legacy platforms on how to integrate and model data, then proposing business intelligence or data integration solutions.",
+      "Engaging with the development teams to provide production management support input for the design of new applications.",
+      "Assisting in the development and deployment of releases in different environments."
+    ],
+    "qualifications": [
+      "An all-star data modeler with deep experience in ETL tools and understanding how front-end reporting tools will utilize different data models.",
+      "A master of business intelligence and data integration solutions, as well as industry standards, best practices and trends.",
+      "A driven problem-solver with a passion for complex government, urban and social challenges."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+  { 
+    "category": "design",
+    "id": 207956,
+    "title": "UX/UI Designer",
+    "civiltitle": "Computer Specialist (Software)",
+    "agency": "Department of Information Technology and Telecommunications",
+    "salary": { 
+      "low": "$81,290",
+      "high": "$100,000"
+    },
+    "description": "You will create interaction models and interface designs for mobile apps, websites and applications that will positively impact the City and its citizens every day. You will also participate in human centered design activities, user research, software prototyping and usability testing.",
+    "tasks": [
+      "Working with project teams to develop business, technical and product requirements, then translating into process/navigational flows, user interaction models, functional specifications and wireframes.",
+      "Creating prototypes for user and product testing, conduct user and product research and usability tests.",
+      "Translating wireframes/prototypes into final user interface designs, and then delivering production-ready assets."
+    ],
+    "qualifications": [
+      "An all-star designer with excellent interaction and visual design/implementation experience, plus experience in design facilitation skills for public-facing projects.",
+      "A master of front-end development (HTML5, CSS3, JS, and JQuery) and industry standards, best practices and trends.",
+      "A driven problem-solver with a passion for complex government, urban and social challenges."
+    ],
+    "minimum": "BA and two years of relevant work experience."
+  },
+]
