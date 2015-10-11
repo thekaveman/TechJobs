@@ -40,38 +40,9 @@
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
-    <script>
-        $('#linkDev').click(function () {
-            var src = 'https://www.youtube.com/embed/AawSodrxE5w';
-            $('#modalDev').modal('show');
-            $('#modalDev iframe').attr('src', src);
-        });
-
-        $('#modalDev button').click(function () {
-            $('#modalDev iframe').removeAttr('src');
-        });
-    </script>
-    <script>
-        $('#linkData').click(function () {
-            var src = 'https://www.youtube.com/embed/24FA6h3MdYg';
-            $('#modalData').modal('show');
-            $('#modalData iframe').attr('src', src);
-        });
-
-        $('#modalData button').click(function () {
-            $('#modalData iframe').removeAttr('src');
-        });
-    </script>
-    <script>
-        $('#linkDesign').click(function () {
-            var src = 'https://www.youtube.com/embed/kAIHFMoaiAo';
-            $('#modalDesign').modal('show');
-            $('#modalDesign iframe').attr('src', src);
-        });
-
-        $('#modalDesign button').click(function () {
-            $('#modalDesign iframe').removeAttr('src');
-        });
-    </script>
+    
+    {% for script in page.scripts %}
+    <script src="{{ script }}"></script>
+    {% endfor %}
   </body>
 </html>

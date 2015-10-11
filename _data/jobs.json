@@ -1,11 +1,11 @@
 [
-  { 
+  {
     "category": "development",
     "id": 201791,
     "title": "Senior Mobile Application Developer",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of Information Technology and Telecommunications",
-    "salary": { 
+    "salary": {
       "low": "$87,203",
       "high": "$115,000"
     },
@@ -22,13 +22,13 @@
     ],
     "minimum": "BA and two years of relevant work experience."
   },
-  { 
+  {
     "category": "development",
     "id": 202068,
     "title": "Senior Application Developer",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of Information Technology and Telecommunications",
-    "salary": { 
+    "salary": {
       "low": "$87,203",
       "high": "$115,000"
     },
@@ -45,13 +45,13 @@
     ],
     "minimum": "BA and two years of relevant work experience."
   },
-  { 
+  {
     "category": "development",
     "id": 201013,
     "title": "Senior Java Developer",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of Information Technology and Telecommunications",
-    "salary": { 
+    "salary": {
       "low": "$87,203",
       "high": "$110,000"
     },
@@ -68,14 +68,14 @@
     ],
     "minimum": "BA and two years of relevant work experience."
   },
-  { 
+  {
     "category": "development",
     "id": 217540,
     "title": "Program Lead - Interagency Mapping Portal",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of City Planning",
     "division": "Capital Planning",
-    "salary": { 
+    "salary": {
       "low": "$75,000",
       "high": "$88,000"
     },
@@ -92,14 +92,14 @@
     ],
     "minimum": "BA and two years of relevant work experience.",
   },
-  { 
+  {
     "category": "development",
     "id": 214588,
     "title": "Database and Application Development Specialist",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of City Planning",
     "division": "Information Technology Division / Database and Application Development section",
-    "salary": { 
+    "salary": {
       "low": "$74,066",
       "high": "$92,308"
     },
@@ -116,13 +116,13 @@
     ],
     "minimum": "BA and two years of relevant work experience."
   },
-  { 
+  {
     "category": "development",
     "id": 201017,
     "title": "Java Developer",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of Information Technology and Telecommunications",
-    "salary": { 
+    "salary": {
       "low": "$81,290",
       "high": "$105,000"
     },
@@ -138,13 +138,13 @@
     ],
     "minimum": "BA and two years of relevant work experience."
   },
-  { 
+  {
     "category": "development",
     "id": 201361,
     "title": "CMS Developer",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of Information Technology and Telecommunications",
-    "salary": { 
+    "salary": {
       "low": "$81,290",
       "high": "$105,000"
     },
@@ -160,13 +160,13 @@
     ],
     "minimum": "BA and two years of relevant work experience."
   },
-  { 
+  {
     "category": "data",
     "id": 202175,
     "title": "Senior Data Architect",
     "civiltitle": "Computer Systems Manager",
     "agency": "Department of Information Technology and Telecommunications",
-    "salary": { 
+    "salary": {
       "low": "$51,757",
       "high": "$130,000"
     },
@@ -183,14 +183,14 @@
     ],
     "minimum": "MA and three years of relevant work experience OR BA and four years of relevant work experience."
   },
-  { 
+  {
     "category": "data",
     "id": 217540,
     "title": "Program Lead - Interagency Mapping Portal",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of City Planning",
     "division": "Capital Planning",
-    "salary": { 
+    "salary": {
       "low": "$77,157",
       "high": "$88,000"
     },
@@ -207,13 +207,13 @@
     ],
     "minimum": "BA and two years of relevant work experience."
   },
-  { 
+  {
     "category": "data",
     "id": 201360,
     "title": "Analytics Developer",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of Information Technology and Telecommunications",
-    "salary": { 
+    "salary": {
       "low": "$81,290",
       "high": "$105,000"
     },
@@ -230,13 +230,13 @@
     ],
     "minimum": "BA and two years of relevant work experience."
   },
-  { 
+  {
     "category": "data",
     "id": 200765,
     "title": "Data Modeler",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of Information Technology and Telecommunications",
-    "salary": { 
+    "salary": {
       "low": "$87,203",
       "high": "$110,000"
     },
@@ -253,13 +253,13 @@
     ],
     "minimum": "BA and two years of relevant work experience."
   },
-  { 
+  {
     "category": "design",
     "id": 207956,
     "title": "UX/UI Designer",
     "civiltitle": "Computer Specialist (Software)",
     "agency": "Department of Information Technology and Telecommunications",
-    "salary": { 
+    "salary": {
       "low": "$81,290",
       "high": "$100,000"
     },
