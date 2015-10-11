@@ -4,7 +4,34 @@ NYC Tech Jobs is the City's initiative to highlight critical roles for developer
 
 ##Website Framework
 
-The website is built on [Bootstrap](http://www.getbootstrap.com), an extremely easy-to-use HTML/CSS/JS framework. We're also using [Designmodo's FlatUI](http://designmodo.github.io/Flat-UI/), a CSS style added on top. Lastly, we're using open-source icons from [Flat Icon](http://www.flaticon.com).
+The website is built using [Jekyll](http://jekyllrb.com/). [Bootstrap](http://www.getbootstrap.com) and [Designmodo's FlatUI](http://designmodo.github.io/Flat-UI/) are being used for styles and front-end. Lastly, we're using open-source icons from [Flat Icon](http://www.flaticon.com).
+
+##Development
+
+[Jekyll](http://jekyllrb.com/) is required for building the site locally, [Bundler](http://bundler.io/) is used to manage dependencies (we just use the [gh-pages gem](https://github.com/github/pages-gem) for easy bootstrapping).
+
+Once you have these tools installed, getting the website built and running locally is as simple as installing the dependencies
+
+    ~/TechJobs$ bundle install
+    ...
+    ...
+    Your bundle is complete!
+    Use `bundle show [gemname]` to see where a bundled gem is installed
+
+and then running (available at http://localhost:4000 by default).
+
+    ~/TechJobs$ bundle exec jekyll serve --baseurl ''
+    Configuration file: /home/user/TechJobs/_config.yml
+            Source: /home/user/TechJobs
+       Destination: /home/user/TechJobs/_site
+      Generating...
+                    done.
+    Auto-regeneration: enabled for '/home/user/TechJobs'
+    Configuration file: /home/user/TechJobs/_config.yml
+    Server address: http://0.0.0.0:4000/
+    Server running... press ctrl-c to stop.
+
+Each time you make a change to a file, the site will automatically regenerate.
 
 ##Use it for Your City!
 
