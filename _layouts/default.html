@@ -41,6 +41,10 @@
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="{{ site.baseurl }}/js/ie10-viewport-bug-workaround.js"></script>
     
+    <script>
+    $("#navbar a[href='" + window.location.pathname + "']").parent().addClass("active");
+    </script>
+
     {% for script in page.scripts %}
     <script src="{{ site.baseurl }}/{{ script }}"></script>
     {% endfor %}
