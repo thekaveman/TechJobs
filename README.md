@@ -4,13 +4,13 @@ NYC Tech Jobs is the City's initiative to highlight critical roles for developer
 
 ##Website Framework
 
-The website is built using [Jekyll](http://jekyllrb.com/). [Bootstrap](http://www.getbootstrap.com) and [Designmodo's FlatUI](http://designmodo.github.io/Flat-UI/) are being used for styles and front-end. Lastly, we're using open-source icons from [Flat Icon](http://www.flaticon.com).
+The website is built using [Jekyll](http://jekyllrb.com/), a Ruby-based static website generator. [Bootstrap](http://www.getbootstrap.com) and [Designmodo's FlatUI](http://designmodo.github.io/Flat-UI/) are being used for styles and front-end. Lastly, we're using open-source icons from [Flat Icon](http://www.flaticon.com).
 
 ##Development
 
-[Jekyll](http://jekyllrb.com/) is required for building the site locally, [Bundler](http://bundler.io/) is used to manage dependencies (we just use the [gh-pages gem](https://github.com/github/pages-gem) for easy bootstrapping).
+[Ruby](https://www.ruby-lang.org/en/) is required for building the site locally, [Bundler](http://bundler.io/) is used to manage dependencies. The [gh-pages gem](https://github.com/github/pages-gem) is used for easy bootstrapping (to install the Jekyll gem and all required dependencies, at the version level currently supported by [GitHub pages](https://pages.github.com/)).
 
-Once you have these tools installed, getting the website built and running locally is as simple as installing the dependencies
+Once you have Ruby and Bundler installed, getting the website built and running locally is as simple as installing the dependencies using Bundler:
 
     ~/TechJobs$ bundle install
     ...
@@ -18,7 +18,24 @@ Once you have these tools installed, getting the website built and running local
     Your bundle is complete!
     Use `bundle show [gemname]` to see where a bundled gem is installed
 
-and then running (available at http://localhost:4000 by default).
+and then serving the site (again, using Bundler):
+
+    ~/TechJobs$ bundle exec jekyll serve
+    Configuration file: /home/user/TechJobs/_config.yml
+            Source: /home/user/TechJobs
+       Destination: /home/user/TechJobs/_site
+      Generating...
+                    done.
+    Auto-regeneration: enabled for '/home/user/TechJobs'
+    Configuration file: /home/user/TechJobs/_config.yml
+    Server address: http://0.0.0.0:4000/html/techjobs/html/
+    Server running... press ctrl-c to stop.
+
+Notice the `Server address` is `http://0.0.0.0:4000/html/techjobs/html/` - this means the site is available locally at
+http://localhost:4000/html/techjobs/html.
+
+The latter part of this URL (`/html/techjobs/html`) comes from the `baseurl` parameter in `_config.yml`.
+This can be overridden when developing locally using the `--baseurl` argument, e.g.
 
     ~/TechJobs$ bundle exec jekyll serve --baseurl ''
     Configuration file: /home/user/TechJobs/_config.yml
@@ -30,6 +47,8 @@ and then running (available at http://localhost:4000 by default).
     Configuration file: /home/user/TechJobs/_config.yml
     Server address: http://0.0.0.0:4000/
     Server running... press ctrl-c to stop.
+
+Here we used `--baseurl ''` to set the `baseurl` parameter to `''` (empty), so the site is available at http://localhost:4000.
 
 Each time you make a change to a file, the site will automatically regenerate.
 
