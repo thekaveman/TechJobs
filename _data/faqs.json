@@ -1,0 +1,79 @@
+{
+  "categories": {
+    "applying": "Applying for Jobs",
+    "exams": "Civil Service Exams",
+    "additional": "Additional Questions"
+  },
+  "questions": [
+    {
+      "category": "applying",
+      "question": "How do I apply for jobs on this site?",
+      "answer": "There is a link at the bottom of each posting on this site to the official application on the <a href='http://www1.nyc.gov/jobs/index.page'>City's jobs website</a>. From there, follow the instructions to create an account and apply."
+    },
+    {
+      "category": "applying",
+      "question": "What happens after I’ve applied for a job?",
+      "answer": "After applying for a job through the <a href='http://www1.nyc.gov/jobs/index.page'>City's jobs website</a>, your application will be sent directly to the hiring manager. If your qualifications meet the job requirements, you will be contacted for an interview. City agencies often receive a large volume of applicants, so the follow-up may take several weeks!"
+    },
+    {
+      "category": "exams",
+      "question": "What are civil service exams?",
+      "answer": "Civil service is a system established by the New York State Civil Service Law to help ensure that the hiring process for government is competitive and fair. The system was established decades ago to prevent government employees from hiring their friends and relatives without merit.<br><br>City jobs with similar responsibilities and qualifications are grouped together and assigned a civil service title. The City uses exams to measure a potential candidate's qualification for a particular title—a list of eligible candidates is established for each title ranked by exam scores. For most City jobs, agencies are required to hire candidates who have taken and passed a civil service exam and appear on the list."
+    },
+    {
+      "category": "exams",
+      "question": "Do I have to take a civil service exam?",
+      "answer": "Most likely, since the majority of New York City government jobs - including tech jobs - require applicants to take and pass a civil service examination in order be employed by the City. However, you can still apply for a job before you’ve taken an exam!"
+    },
+    {
+      "category": "exams",
+      "question": "How do I sign up for an exam?",
+      "answer": "Each exam has a filing period, during which you must sign up to take the exam. The filing periods for tech job exams begin this November. The schedule for all exams—including computer titles for tech jobs—can be found on the Department of Citywide Administrative Services's <a href='http://www.nyc.gov/html/dcas/downloads/pdf/misc/yearly_examschedule_alpha.pdf'>website</a>."
+    },
+    {
+      "category": "exams",
+      "question": "Which exam should I take?",
+      "answer": "Take a look at the civil service title in each job posting. This is the title of the exam you will need to take and pass in order to maintain employment with the City. For example, if the civil service title is Computer Specialist (Software), you must take the Computer Specialist (Software) exam. Refer to the list of exams on NYC Department of Citywide Administrative Services's <a href='http://www.nyc.gov/html/dcas/downloads/pdf/misc/yearly_examschedule_alpha.pdf'>website</a> to find out the filing period for the specific exam(s) you want to take. It’s in your best interest to take as many exams as you qualify for!"
+    },
+    {
+      "category": "exams",
+      "question": "Are there specific qualifications for exams?",
+      "answer": "Yes, there are certain education and experience requirements for each title and exam. When the filing period for an exam begins, the City will post a Notice of Examination. The Notice will contain information on the qualifications you have to meet in order to take the exam. You may have to possess a certain type of degree, have a certain number of college credits in a particular subject, or have a certain number of years of career experience to qualify. Read these qualifications closely to ensure that you qualify before applying to take the exam."
+    },
+    {
+      "category": "exams",
+      "question": "Does passing the exam guarantee that I will get a City job?",
+      "answer": "No, passing a civil service exam does <u>not</u> guarantee employment with the City. After the results of the exam have been established, applicants who have passed are placed on a list ranked by their exam score. City agencies contact candidates in list order for interviews. Candidates must still interview for positions and meet any specific requirements an agency may have for a position, beyond the minimum qualifications."
+    },
+    {
+      "category": "exams",
+      "question": "Can I apply for a City job before I take a civil service exam?",
+      "answer": "Yes, you can apply for a City job before you’ve taken the exam! City agencies can hire people who have not yet taken an exam as “provisional” employees. However, once an exam has been given and the list has been established, agencies must replace provisional employees with candidates from the civil service list. So, if you plan to apply for a City job, you should plan to take an exam to ensure continued employment with the City."
+    },
+    {
+      "category": "exams",
+      "question": "If I am hired for a City position before I have taken an exam, do I still have to take the exam?",
+      "answer": "Yes, to ensure continued employment with the City, you must take a civil service exam, even if you are hired before the exam has been administered. City agencies can hire candidates in a \"provisional\" status if there is no existing civil service list for their title. However, once an exam has been given and the list has been established, agencies must replace provisional employees with candidates from the civil service list."
+    },
+    {
+      "category": "exams",
+      "question": "Where can I find more information on civil service exams?",
+      "answer": "Exam filing schedules, Notices of Exams, and other information can be found on the NYC Department of Citywide Administrative Services’s <a href='http://www.nyc.gov/html/dcas/html/work/work.shtml'>website</a>."
+    },
+    {
+      "category": "additional",
+      "question": "What kinds of benefits does the City offer its employees?",
+      "answer": "The City offers its employees free and low-cost health plans, accrued vacation and sick leave with rollover, paid time off for 12 City holidays, retirement and pension plans, and discounts on cell phone plans, gym memberships, and a variety of other products and services."
+    },
+    {
+      "category": "additional",
+      "question": "Does the City sponsor work visas?",
+      "answer": "Applicants for City jobs must be authorized to work in the U.S. by the first day of employment. While it is not the City’s standard practice to sponsor work visas, consideration of sponsorship is made on a case by case basis."
+    },
+    {
+      "category": "additional",
+      "question": "Are there residency requirements for City jobs?",
+      "answer": "Some City jobs require residency in the five boroughs within 90 days of appointment to a position. However, many tech jobs do not have a residency requirement. Check each job posting for residency requirements and confirm with the hiring manager."
+    }
+  ]
+}
